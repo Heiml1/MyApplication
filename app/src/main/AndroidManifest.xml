@@ -13,13 +13,6 @@
         android:theme="@style/Theme.MyApplication"
         tools:targetApi="31">
         <activity
-            android:name=".tuan22.kotlinSumMainActivity"
-            android:exported="false">
-        </activity>
-        <activity
-            android:name=".tuan22.kotlinSumSecondActivity"
-            android:exported="false" />
-        <activity
             android:name=".tuan21.tuan22MainActivity"
             android:exported="false" />
         <activity
